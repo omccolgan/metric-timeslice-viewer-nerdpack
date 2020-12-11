@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "metric-timeslice-viewer-nerdpack-launcher",
+    "displayName": "MetricTimesliceViewerNerdpackLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "metric-timeslice-viewer-nerdpack-nerdlet"
+}
